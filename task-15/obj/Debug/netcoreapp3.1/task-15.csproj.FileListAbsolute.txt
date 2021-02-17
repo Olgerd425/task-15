@@ -1,0 +1,13 @@
+D:\Projects\task-15\task-15\bin\Debug\netcoreapp3.1\task-15.exe
+D:\Projects\task-15\task-15\bin\Debug\netcoreapp3.1\task-15.deps.json
+D:\Projects\task-15\task-15\bin\Debug\netcoreapp3.1\task-15.runtimeconfig.json
+D:\Projects\task-15\task-15\bin\Debug\netcoreapp3.1\task-15.runtimeconfig.dev.json
+D:\Projects\task-15\task-15\bin\Debug\netcoreapp3.1\task-15.dll
+D:\Projects\task-15\task-15\bin\Debug\netcoreapp3.1\task-15.pdb
+D:\Projects\task-15\task-15\obj\Debug\netcoreapp3.1\task-15.csprojAssemblyReference.cache
+D:\Projects\task-15\task-15\obj\Debug\netcoreapp3.1\task-15.AssemblyInfoInputs.cache
+D:\Projects\task-15\task-15\obj\Debug\netcoreapp3.1\task-15.AssemblyInfo.cs
+D:\Projects\task-15\task-15\obj\Debug\netcoreapp3.1\task-15.csproj.CoreCompileInputs.cache
+D:\Projects\task-15\task-15\obj\Debug\netcoreapp3.1\task-15.dll
+D:\Projects\task-15\task-15\obj\Debug\netcoreapp3.1\task-15.pdb
+D:\Projects\task-15\task-15\obj\Debug\netcoreapp3.1\task-15.genruntimeconfig.cache
